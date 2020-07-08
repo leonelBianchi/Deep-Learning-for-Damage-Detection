@@ -1,0 +1,2 @@
+# Deep-Learning-for-Damage-Detection
+This Python Script showa a way to generate an AI model using libraries such as Keras, Pandas, Numpy, Matplotlib and Scikit-Learn. This model let us predict damage in structures.
