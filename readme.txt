@@ -1,6 +1,8 @@
-July 11th 2020 - Update Research Article-  Aritificial Inteligence for damage detection 
+July 11th 2020 - Update Research Article -  Aritificial Intelligence for damage detection 
 
 Fields: AI, Civil Engineering, Deep Learning, Machine Learning, Python Script, Structural Health Monitoring
+
+Description: deep learning model that takes dynamic properties of the structure (in this case a pedestrian bridge) as input to predict in which area of the structure there is damage (simulated as a decrease in its rigidity). This allows remote and rapid monitoring of structures at low computational cost.
 
 In this repository you will find:
 	1 - Neural Network Rev1.py
