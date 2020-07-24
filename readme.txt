@@ -12,3 +12,5 @@ In this repository you will find:
 
 1 script using python that generates a .csv file used as input in the neural network script
 1 script using python and libraries (Keras, Scikit-Learn, Numpy, Matplotlib, Pandas) that reads the .csv file and generates a .csv file that predicts wich beam is damaged
+
+## own production ##
