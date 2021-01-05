@@ -21,13 +21,13 @@ Use an -env (using Anaconda environments, for example)
 
 Then,
 
-tensorflow 
-	- pip install tensorflow
+tensorflow <br>
+	pip install tensorflow<br><br>
 keras 
-	$pip install keras
+	$pip install keras<br><br>
 pandas 
-	$pip install pandas
+	$pip install pandas<br><br>
 numpy 
-	$pip install numpy
+	$pip install numpy<br><br>
 matplotlib 
-	$pip install matplotlib
+	$pip install matplotlib<br><br>
