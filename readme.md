@@ -7,10 +7,10 @@ July 11th 2020 - Update Research Article -  Aritificial Intelligence for damage 
 
 # Files
 
-	- Neural Network Rev1.py (script using python that generates a .csv file used as input in the neural network script)
-	- Damage Creation.py (cript using python and libraries (Keras, Scikit-Learn, Numpy, Matplotlib, Pandas) that reads the .csv file and generates a .csv file that predicts wich beam is damaged)
-	- input_pasarela4.csv
-	- test1.csv
+- Neural Network Rev1.py (script using python that generates a .csv file used as input in the neural network script)
+- Damage Creation.py (cript using python and libraries (Keras, Scikit-Learn, Numpy, Matplotlib, Pandas) that reads the .csv file and generates a .csv file that predicts wich beam is damaged)
+- input_pasarela4.csv
+- test1.csv
 
 # Libraries to install
 
@@ -21,8 +21,13 @@ Use an -env (using Anaconda environments, for example)
 
 Then,
 
-tensorflow pip install tensorflow
-keras $pip install keras
-pandas $pip install pandas
-numpy $pip install numpy
-matplotlib $pip install matplotlib
+tensorflow 
+	pip install tensorflow
+keras 
+	$pip install keras
+pandas 
+	$pip install pandas
+numpy 
+	$pip install numpy
+matplotlib 
+	$pip install matplotlib
