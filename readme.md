@@ -22,7 +22,7 @@ Use an -env (using Anaconda environments, for example)
 Then,
 
 tensorflow 
-	pip install tensorflow
+	- pip install tensorflow
 keras 
 	$pip install keras
 pandas 
