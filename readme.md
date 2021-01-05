@@ -21,7 +21,7 @@ Use an -env (using Anaconda environments, for example)
 
 Then,
 
-tensorflow <br>
+tensorflow 
 	pip install tensorflow<br><br>
 keras 
 	$pip install keras<br><br>
