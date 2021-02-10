@@ -23,7 +23,6 @@ The objetive of this project is to create a software based on a deep neural netw
 
 # Libraries to install
 
-Then,
 ```bash
 pip install tweepy
 pip install pandas
